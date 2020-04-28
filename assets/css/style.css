@@ -1,0 +1,102 @@
+
+.fichier{
+    width: 1125px;
+    height: 237px;
+    padding: 0px;
+}
+.Tblock{
+    width: 250px;
+    height: 100px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #ed7468;
+    margin-top: 0px;
+    margin-left: 0px;
+    position: relative;
+    display: inline-block;
+    opacity: 0;
+
+}
+.Tenreg{
+    width:0px ;
+    height: 0px;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+    margin-top: 30px;
+    margin-left: 2px;
+    position: relative;
+    display: inline-block;
+    opacity: 0;
+
+    /*background-color: #b1bbff;*/
+}
+.premierecasevide{
+    width:20px ;
+    height: 20px;
+    position: relative;
+    margin: 10px;
+    background-color: #1fdfff;
+}
+p{
+    /*width:10px ;*/
+   /* height: 10px;*/
+    color: black;
+    margin: 5px;
+    position: center;
+    font-size: 10px;
+
+
+}
+#mair{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+
+
+#information2{
+    width: 500px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #1D74AD;
+
+    margin-left: 20px;
+    left:700px;
+    bottom: 0px;
+    position: relative;
+
+
+    display: inline-block;
+
+    border: 3px outset #1D74AD;
+    border-radius: 15px/*40px 40px /*40px 40px*/;
+
+}
+
+
+#information2 p{
+    font-size: 16px;
+    font-family: Georgia;
+
+    /*padding: 3px;*/
+    margin-left: 20px;
+
+}
+
+
+#titre{
+
+    color: #3569ff;
+}
+
+#conc{
+    color: #00ec2a;
+}
+
+
+#conc2{
+    color: #ff0500;
+}
